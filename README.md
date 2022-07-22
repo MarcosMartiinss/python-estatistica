@@ -13,7 +13,7 @@
       - Moda
       - Relação entre média, mediana e moda
 ### - Medidas Separatrizes
-      -  Quartis, Decis e Percentis
+      - Quartis, Decis e Percentis
       - Box-plot
 ### - Medidas de Dispersão
       - Desvio Médio Absoluto
