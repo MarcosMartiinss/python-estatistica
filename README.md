@@ -1,21 +1,21 @@
 # python-estatistica
 ## Curso de python parte 1
-### - Tipos de dados
+### Tipos de dados
       - Quantitativa
       - Qualitativas
-### - Distribuição de Frequência
+### Distribuição de Frequência
       - Dist. Freq. p/ Qualitativa
       - Dist. Freq. p/ Quantitativa (classes personalizadas e classe de amplitude fixa)
       - Histograma
-### - Medidas de Tendência Central
+### Medidas de Tendência Central
       - Média
       - Mediana
       - Moda
       - Relação entre média, mediana e moda
-### - Medidas Separatrizes
+### Medidas Separatrizes
       - Quartis, Decis e Percentis
       - Box-plot
-### - Medidas de Dispersão
+### Medidas de Dispersão
       - Desvio Médio Absoluto
       - Variância
       - Desvio Padrão
