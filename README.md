@@ -70,3 +70,32 @@
       - Testes aplicados a modelos de Regressão
 ### Extras
       - Outros Testes
+
+## Regressão Linear
+### Análises Preliminares
+      - Estatística Descritivas
+      - Matriz de Correlação
+### Comportamento da Variável Dependente (Y)
+      - Análises Gráficas
+            - Box-Plot de duas variáveis
+            - Distribuição de Frequências
+      - Configuração de cor da biblioteca seaborn
+### Variável Dependente VS Variáveis Explicativas 
+      - Análises Gráficas com:
+            - pairplot
+            - jointplot
+            - lmplot
+### Estimulando o Modelo de Regressão Linear para o consumo
+      - train_test_split, biblioteca para treinar o modelo
+      - importando LinearRegression e Metrics
+      - Obtendo o coeficiente de determinação (R²)
+      - Gerando previsões e obtendo o (R²) das previsões
+### Obtendo Previsões Pontuais
+### Interpretação dos Coeficientes Estimados
+### Análise Gráfica das Previsões do Modelo - Aprendendo análise gráfica para entender se o modelo está ajustado ou não
+### Comparando Modelos
+### Outras métricas de Regressão 
+### Salvando e carregando modelos
+      
+      
+      
