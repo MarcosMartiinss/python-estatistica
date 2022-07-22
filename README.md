@@ -49,4 +49,4 @@
       - Teste Unicaudal
       - Testes para Duas Amostras
 ### - Testes não paramétricos
-      - Teste do Qui-Quadrado( $\chi^2$)
+      - Teste do Qui-Quadrado $\chi^2$
