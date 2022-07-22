@@ -49,4 +49,24 @@
       - Teste Unicaudal
       - Testes para Duas Amostras
 ### - Testes não paramétricos
-      - Teste do Qui-Quadrado $\chi^2$
+      - Teste do Qui-Quadrado
+      - Teste Wilcoxon
+      - Teste de Mann-Whitney
+      
+## Curso de python parte 4
+### - Rodando uma Regressão Linear
+### - Correlação
+      - Covariância
+      - Interpretação da Covariância
+      - Coeficiente de Correlação de Pearson
+### - Regressão Linear
+      - Regressão Linear Simples
+      - O método de mínimos quadrados 
+      - Estimadores de mínimos quadrados ordinários
+      - Obtendo Previsões
+      - Resíduos
+      - Suposições sobre o termo de erro (u)
+      - O coeficiente de determinação R²
+      - Testes aplicados a modelos de Regressão
+ ### - Extras
+      - Outros Testes
