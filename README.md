@@ -96,6 +96,18 @@
 ### Comparando Modelos
 ### Outras métricas de Regressão 
 ### Salvando e carregando modelos
-      
-      
-      
+   
+## Regressão Linear II
+### Matriz de correlação
+      - Comportamento da Variável Dependente (Y)
+      - Distribuição de Freguências
+      - Dispersão Entre as Variáveis
+### Transformando os Dados
+      - Verificando Relação Linear
+### Criando os Dataset de Treino e Teste
+      - Avaliando o Modelo Estimado
+      - Modificando o Modelo e Avanliando Novamente o Ajuste
+### Estimando o Modelo com os Dados de Treino
+      - Obtendo Previsões Pontuais
+      - Interpretação dos Coeficientes Estimados
+      - Análises Gráficos dos Resultados do Modelo  
