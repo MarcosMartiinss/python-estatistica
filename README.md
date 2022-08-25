@@ -4,8 +4,6 @@
       - Quantitativa
       - Qualitativas
       - Código:
-            - sorted()  coloca os valores em ordem
-            - .unique() retorna valores unicos
 ### Distribuição de Frequência
       - Dist. Freq. p/ Qualitativa
       - Dist. Freq. p/ Quantitativa (classes personalizadas e classe de amplitude fixa)
@@ -22,7 +20,25 @@
       - Desvio Médio Absoluto
       - Variância
       - Desvio Padrão
-     
+### Códigos
+       - sorted()  coloca os valores em ordem
+       - .sort_values() ordena os valores do menor para o maior
+       - .shape rtorna o número de linhas e coluna do dataframe
+       - .reset_index() pega o index do DF transforma em uma coluna e coloca um index numérico no lugar
+       - .unique() retorna valores unicos
+       - .value_counts() conta os dados por categoria
+       - .value_counts(normalize=True) transforma as categorias em porcentagem
+       - .mean() tira a média
+       - .median() tira a mediana
+       - .moda() tira a moda
+       - .sample(numero do tamanho da amostra, random_state = numero) sample faz uma amostra aleatória do df ou series
+       - nessa sessão mostra como renomear os index, colunas e colocar um nome na coluna do index
+       - transformar uma tabela em percentual
+       - usar uma variável para fazer uma estatística descritiva com 2 outra variáveis, ex: a renda média salárial entre homens e mulheres de diferentes tonalidades de pele
+       - .quantile() retorna a mediana, mas vc pode passar uma lista com as partições [0.25, 0.5, 0.75]
+       - .mad() retorna o desvio médio absoluto
+       - .var() retorna a variância
+       - .std() retorna o desvio padrão       
 ## Curso de python parte 2
 ### Distribuição de Probabilidade
       - Distribuição Binomial
