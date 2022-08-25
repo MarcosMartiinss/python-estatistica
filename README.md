@@ -39,6 +39,7 @@
        - .mad() retorna o desvio médio absoluto
        - .var() retorna a variância
        - .std() retorna o desvio padrão       
+       
 ## Curso de python parte 2
 ### Distribuição de Probabilidade
       - Distribuição Binomial
@@ -58,7 +59,14 @@
 ### Cálculo do Tamanho da Amostra
       - Variáveis quantitativas e população infinita
       - Vriáveis quantitativas e população finita
-      
+### Códigos
+      - from scipy.special import comb, comb() serve ara fazer combinações fatoriais 
+      - from scipy.stats import binom, binom.pmf(k, n, p)
+      - binom.sf(numero faltante, n, p) leia o notebook para entender
+      - from scipy.stats import poisson, poisson.pmf(k, u)
+      - Z = (x - media) / desvio_padrao, from scipy.stats import norm, norm.cdf(Z)
+      - norm.interval(alpha = 0.95, loc = media_amostra, scale = sigma), calculando o intervalo de confiança para a média
+      - norm.ppf(probabilidade) retorna a variável padronizada 
 ## Curso de python parte 3
 ### Testes de Hipóteses
       - Teste de normalidade
