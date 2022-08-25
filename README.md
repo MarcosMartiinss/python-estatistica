@@ -66,7 +66,8 @@
       - from scipy.stats import poisson, poisson.pmf(k, u)
       - Z = (x - media) / desvio_padrao, from scipy.stats import norm, norm.cdf(Z)
       - norm.interval(alpha = 0.95, loc = media_amostra, scale = sigma), calculando o intervalo de confiança para a média
-      - norm.ppf(probabilidade) retorna a variável padronizada 
+      - from scipy.stats import norm, norm.ppf(probabilidade) retorna a variável padronizada 
+      
 ## Curso de python parte 3
 ### Testes de Hipóteses
       - Teste de normalidade
@@ -79,6 +80,10 @@
       - Teste do Qui-Quadrado
       - Teste Wilcoxon
       - Teste de Mann-Whitney
+### Código
+      - from scipy.stats import normaltest, normaltest() retorna a estatística teste e o p-valor
+      - from statsmodels.stats.weightstats import ztest, ztest(x1 = amostra, value = media) retorna a estatística teste e o p-valor para teste bicaudal
+      - from statsmodels.stats.weightstats import DescrStatsW, test = DescrStatsW(amostra), t, p_valor, df = test.ttest_mean(value = media, alternative='larger'), retorna o p-valor, "t" e "n"
       
 ## Curso de python parte 4
 ### Rodando uma Regressão Linear
@@ -96,7 +101,7 @@
       - O coeficiente de determinação R²
       - Testes aplicados a modelos de Regressão
 ### Extras
-      - Outros Testes
+      - Outros Testes 
 
 ## Regressão Linear
 ### Análises Preliminares
