@@ -3,6 +3,9 @@
 ### Tipos de dados
       - Quantitativa
       - Qualitativas
+      - Código:
+            - sorted()  coloca os valores em ordem
+            - .unique() retorna valores unicos
 ### Distribuição de Frequência
       - Dist. Freq. p/ Qualitativa
       - Dist. Freq. p/ Quantitativa (classes personalizadas e classe de amplitude fixa)
